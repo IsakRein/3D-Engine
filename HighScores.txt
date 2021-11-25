@@ -1,0 +1,5 @@
+Isak;214
+Julle;50
+Bebbe;43
+Bubba;34
+demo3;19
